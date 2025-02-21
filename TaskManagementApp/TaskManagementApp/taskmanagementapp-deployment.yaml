@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: taskmanagementapp
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: taskmanagementapp
+  template:
+    metadata:
+      labels:
+        app: taskmanagementapp
+    spec:
+      containers:
+      - name: taskmanagementapp
+        image: taskmanagementapp:latest
+        ports:
+        - containerPort: 80
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: taskmanagementapp-service
+spec:
+  selector:
+    app: taskmanagementapp
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
+  type: LoadBalancer
