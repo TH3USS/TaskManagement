@@ -1,10 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using TaskManagementApp.Models;
 
 namespace TaskManagementApp.Controllers
 {
     public class TasksController : Controller
     {
-        private static List<Task> tasks = new List<Task>();
+        private static List<TaskItem> tasks = new List<TaskItem>();
 
         // GET: Tasks
         public IActionResult Index()
@@ -21,7 +22,7 @@ namespace TaskManagementApp.Controllers
         // POST: Tasks/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Create([Bind("Title,Description")] Task task)
+        public IActionResult Create([Bind("Title,Description")] TaskItem task)
         {
             if (ModelState.IsValid)
             {

@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagementApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagement\\TaskManagementApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFA5A942-7B3B-45C9-AD72-54667CE0620D}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\kunernets\\taskmanagementapp\\taskmanagementapp\\hpa.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{CFA5A942-7B3B-45C9-AD72-54667CE0620D}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\hpa.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{CFA5A942-7B3B-45C9-AD72-54667CE0620D}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\kunernets\\taskmanagement\\taskmanagementapp\\taskmanagementapp\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA5A942-7B3B-45C9-AD72-54667CE0620D}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFA5A942-7B3B-45C9-AD72-54667CE0620D}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\kunernets\\taskmanagementapp\\taskmanagementapp\\taskmanagementapp-deployment.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{CFA5A942-7B3B-45C9-AD72-54667CE0620D}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\taskmanagementapp-deployment.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFA5A942-7B3B-45C9-AD72-54667CE0620D}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\kunernets\\taskmanagementapp\\taskmanagementapp\\dockerfile||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFA5A942-7B3B-45C9-AD72-54667CE0620D}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\dockerfile||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFA5A942-7B3B-45C9-AD72-54667CE0620D}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\kunernets\\taskmanagementapp\\taskmanagementapp\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CFA5A942-7B3B-45C9-AD72-54667CE0620D}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\kunernets\\taskmanagement\\taskmanagementapp\\taskmanagementapp\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFA5A942-7B3B-45C9-AD72-54667CE0620D}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFA5A942-7B3B-45C9-AD72-54667CE0620D}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\kunernets\\taskmanagementapp\\taskmanagementapp\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFA5A942-7B3B-45C9-AD72-54667CE0620D}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFA5A942-7B3B-45C9-AD72-54667CE0620D}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\kunernets\\taskmanagement\\taskmanagementapp\\taskmanagementapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA5A942-7B3B-45C9-AD72-54667CE0620D}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA5A942-7B3B-45C9-AD72-54667CE0620D}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\kunernets\\taskmanagement\\taskmanagementapp\\taskmanagementapp\\taskmanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CFA5A942-7B3B-45C9-AD72-54667CE0620D}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\taskmanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "hpa.yaml",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagementApp\\TaskManagementApp\\hpa.yaml",
-              "RelativeDocumentMoniker": "TaskManagementApp\\hpa.yaml",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagementApp\\TaskManagementApp\\hpa.yaml",
-              "RelativeToolTip": "TaskManagementApp\\hpa.yaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-02-15T19:48:19.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "taskmanagementapp-deployment.yaml",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagementApp\\TaskManagementApp\\taskmanagementapp-deployment.yaml",
-              "RelativeDocumentMoniker": "TaskManagementApp\\taskmanagementapp-deployment.yaml",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagementApp\\TaskManagementApp\\taskmanagementapp-deployment.yaml",
-              "RelativeToolTip": "TaskManagementApp\\taskmanagementapp-deployment.yaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-02-15T19:47:44.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagementApp\\TaskManagementApp\\Dockerfile",
-              "RelativeDocumentMoniker": "TaskManagementApp\\Dockerfile",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagementApp\\TaskManagementApp\\Dockerfile",
-              "RelativeToolTip": "TaskManagementApp\\Dockerfile",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAwwCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-15T19:46:34.435Z",
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagement\\TaskManagementApp\\TaskManagementApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TaskManagementApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagement\\TaskManagementApp\\TaskManagementApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TaskManagementApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:13:40.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "TaskManagementApp",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagement\\TaskManagementApp\\TaskManagementApp\\TaskManagementApp.csproj",
+              "RelativeDocumentMoniker": "TaskManagementApp\\TaskManagementApp.csproj",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagement\\TaskManagementApp\\TaskManagementApp\\TaskManagementApp.csproj",
+              "RelativeToolTip": "TaskManagementApp\\TaskManagementApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T03:00:50.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagementApp\\TaskManagementApp\\Controllers\\TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagement\\TaskManagementApp\\TaskManagementApp\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "TaskManagementApp\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagementApp\\TaskManagementApp\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagement\\TaskManagementApp\\TaskManagementApp\\Controllers\\TaskController.cs",
               "RelativeToolTip": "TaskManagementApp\\Controllers\\TaskController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T19:43:00.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagementApp\\TaskManagementApp\\Models\\Task.cs",
-              "RelativeDocumentMoniker": "TaskManagementApp\\Models\\Task.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagementApp\\TaskManagementApp\\Models\\Task.cs",
-              "RelativeToolTip": "TaskManagementApp\\Models\\Task.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagement\\TaskManagementApp\\TaskManagementApp\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskManagementApp\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagement\\TaskManagementApp\\TaskManagementApp\\Models\\TaskItem.cs",
+              "RelativeToolTip": "TaskManagementApp\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T19:42:01.404Z",
               "EditorCaption": ""

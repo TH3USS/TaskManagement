@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagementApp\\TaskManagementApp\\TaskManagementApp.csproj": {}
+    "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagement\\TaskManagementApp\\TaskManagementApp\\TaskManagementApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagementApp\\TaskManagementApp\\TaskManagementApp.csproj": {
+    "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagement\\TaskManagementApp\\TaskManagementApp\\TaskManagementApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagementApp\\TaskManagementApp\\TaskManagementApp.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagement\\TaskManagementApp\\TaskManagementApp\\TaskManagementApp.csproj",
         "projectName": "TaskManagementApp",
-        "projectPath": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagementApp\\TaskManagementApp\\TaskManagementApp.csproj",
+        "projectPath": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagement\\TaskManagementApp\\TaskManagementApp\\TaskManagementApp.csproj",
         "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagementApp\\TaskManagementApp\\obj\\",
+        "outputPath": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\kunernets\\TaskManagement\\TaskManagementApp\\TaskManagementApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
